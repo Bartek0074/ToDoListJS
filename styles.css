@@ -142,6 +142,7 @@ h1 {
 
 .popup h3 {
     padding: 20px;
+    text-transform: uppercase;
 }
 
 .popup-info {
